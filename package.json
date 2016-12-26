@@ -1,0 +1,27 @@
+{
+    "name": "rediswrapper",
+    "version": "1.0.0",
+    "description": "nodejs redis wrapper",
+    "main": "rediswrapper",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryansecret/rediswrapper.git"
+    },
+    "keywords": [
+        "nodejs",
+        "redis"
+    ],
+    "dependencies": {
+        "redis": "^2.6.2",
+        "log4js": "^0.6.38"
+    },
+    "author": "ryansecret",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ryansecret/rediswrapper/issues"
+    },
+    "homepage": "https://github.com/ryansecret/rediswrapper#readme"
+}
